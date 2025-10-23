@@ -16,7 +16,7 @@ Apasionada por el desarrollo fullstack, las arquitecturas de software modernas y
 - 🌱 Aprendiendo y profundizando en **desarrollo fullstack con .NET y Blazor**, así como en las últimas novedades de **React**.
 - 👯 Busco colaborar en proyectos innovadores de **IoT**, **Inteligencia Artificial aplicada** y **plataformas web escalables**.
 - 🤔 Interesada en fortalecer mis conocimientos sobre **ciberseguridad** y **arquitecturas en la nube (Cloud Computing)**.
-- 📫 Puedes contactarme a través de mi correo: [patylo1970maria@gmail.com](mailto:patylo1970maria@gmail.com)
+- 📫 Puedes contactarme a través de mi correo: **[patylo1970maria@gmail.com](mailto:patylo1970maria@gmail.com)**
 - 💬 Pregúntame sobre **Java, React, .NET, Angular, SQL** o **desarrollo de APIs REST**.
 - ⚡ **Dato curioso:** Disfruto tanto resolviendo problemas complejos como optimizando pequeños detalles del código. ¡La elegancia está en lo simple! 💡
 
@@ -66,11 +66,25 @@ Mi stack de tecnologías incluye, pero no se limita a:
 
 ---
 
+## 📊 Mis Estadísticas en GitHub
+
+<div align="center">
+
+| <img src="https://github-readme-stats.vercel.app/api?username=Mabe-Zapata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de María" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mabe-Zapata&layout=compact&langs_count=8&theme=tokyonight" alt="Lenguajes más usados por María" /> |
+|---|---|
+| <img src="https://github-readme-streak-stats.herokuapp.com?user=Mabe-Zapata&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Racha de Contribuciones de María" /> | *(Este espacio puede ser usado para otra estadística o un proyecto destacado)* |
+
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mabe-Zapata&theme=tokyonight&row=1&column=7" alt="Trofeos de GitHub de María" />
+</p>
+
+---
+
 ## 🌍 Conecta Conmigo
 
-Encuéntrame en otras plataformas y exploremos cómo podemos colaborar.
-
-<p>
+<p align="center">
   <a href="URL_DE_TU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -85,23 +99,3 @@ Encuéntrame en otras plataformas y exploremos cómo podemos colaborar.
 ---
 
 > “El software no solo se trata de código: es una forma de imaginar el futuro y construirlo, línea a línea.” ✨
-
----
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mabe-Zapata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mabe-Zapata&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-
-</div>
-
----
-
