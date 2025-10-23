@@ -72,7 +72,6 @@ Mi stack de tecnologías incluye, pero no se limita a:
 
 | <img src="https://github-readme-stats.vercel.app/api?username=Mabe-Zapata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de María" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mabe-Zapata&layout=compact&langs_count=8&theme=tokyonight" alt="Lenguajes más usados por María" /> |
 |---|---|
-| <img src="https://github-readme-streak-stats.herokuapp.com?user=Mabe-Zapata&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Racha de Contribuciones de María" /> | *(Este espacio puede ser usado para otra estadística o un proyecto destacado)* |
 
 </div>
 
