@@ -87,5 +87,22 @@ Encuéntrame en otras plataformas y exploremos cómo podemos colaborar.
 > “El software no solo se trata de código: es una forma de imaginar el futuro y construirlo, línea a línea.” ✨
 
 ---
+---
 
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mabe-Zapata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mabe-Zapata&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mabe-Zapata&theme=tokyonight)
+
+</div>
+
+---
 
