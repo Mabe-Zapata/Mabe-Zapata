@@ -100,7 +100,6 @@ Encuéntrame en otras plataformas y exploremos cómo podemos colaborar.
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mabe-Zapata&theme=tokyonight)
 
 </div>
 
