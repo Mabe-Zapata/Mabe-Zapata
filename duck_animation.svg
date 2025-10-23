@@ -1,0 +1,51 @@
+<svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Definición de estilos y animaciones -->
+  <defs>
+    <style>
+      .duck {
+        /* Animación del patito moviéndose de arriba a abajo */
+        animation: bob 3s ease-in-out infinite;
+      }
+      .waves {
+        /* Animación de las olas moviéndose de izquierda a derecha */
+        animation: wave 4s linear infinite;
+      }
+
+      @keyframes bob {
+        0%, 100% {
+          transform: translateY(0);
+        }
+        50% {
+          transform: translateY(5px);
+        }
+      }
+
+      @keyframes wave {
+        0% {
+          transform: translateX(0);
+        }
+        100% {
+          transform: translateX(-40px);
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Capa del agua (olas) -->
+  <g class="waves">
+    <path fill="#a0c4ff" d="M0 80 Q 20 70, 40 80 T 80 80 T 120 80 T 160 80 T 200 80 T 240 80 T 280 80 T 320 80 T 360 80 T 400 80 V 150 H 0 Z" />
+    <path fill="#bde0fe" d="M-10 90 Q 10 80, 30 90 T 70 90 T 110 90 T 150 90 T 190 90 T 230 90 T 270 90 T 310 90 T 350 90 T 390 90 V 150 H -10 Z" />
+  </g>
+
+  <!-- Patito -->
+  <g class="duck" transform="translate(130, 40) scale(0.8)">
+    <!-- Cuerpo -->
+    <path d="M 30 50 C 10 70, 60 90, 70 60 L 80 40 C 90 20, 50 10, 30 20 Z" fill="#FFD700"/>
+    <!-- Cabeza -->
+    <circle cx="25" cy="25" r="15" fill="#FFD700"/>
+    <!-- Ojo -->
+    <circle cx="22" cy="22" r="2" fill="black"/>
+    <!-- Pico -->
+    <path d="M 10 25 C 5 28, 5 32, 10 35" fill="#FFA500"/>
+  </g>
+</svg>
