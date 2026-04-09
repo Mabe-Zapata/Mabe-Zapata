@@ -91,14 +91,19 @@ Si no estoy escribiendo código (u organizando un tablero de Trello con mis canc
 
 ## 📊 Mis Estadísticas Intergalácticas
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mabe-Zapata&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de María" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mabe-Zapata&layout=compact&langs_count=8&theme=radical" alt="Lenguajes de María" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mabe-Zapata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mabe-Zapata&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mabe-Zapata&theme=radical&row=1&column=7" alt="Trofeos GitHub" />
-</p>
+<div align="center">
+
+
+</div>
+
 
 ---
 
